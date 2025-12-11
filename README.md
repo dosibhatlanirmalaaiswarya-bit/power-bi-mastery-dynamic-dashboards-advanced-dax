@@ -19,20 +19,7 @@ This project showcases an **Advanced Power BI Sales Dashboard**, incorporating *
 ### Dashboard Screenshots
 
 #### 📈 Executive Summary View
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
-*High-level KPIs showing YoY Growth, Gross Sales, Profit Margins, and Customer Satisfaction Score*
-
-#### 📊 Sales Performance Analysis
-![Sales Performance](Screenshots/Sales_Performance.png)
-*Monthly and yearly trend analysis with dynamic filtering capabilities*
-
-#### 🎛️ Interactive Storytelling View
-![Storytelling Dashboard](Screenshots/Storytelling_View.png)
-*Dynamic bookmarks enabling seamless navigation between executive and operational views*
-
-#### 📉 Operational Metrics Deep Dive
-![Operational Metrics](Screenshots/Operational_Metrics.png)
-*Detailed operational-level insights responding to slicer selections*
+<img width="1780" height="965" alt="image" src="https://github.com/user-attachments/assets/8b02e3f4-f04b-4f3f-a9e7-067d2253999e" />
 
 ---
 
